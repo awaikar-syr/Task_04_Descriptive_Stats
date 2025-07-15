@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Files
-**No dataset files are committed to this repository.**
+**No dataset files are committed to this repository, but you can download them from here: [Google Drive Link](https://drive.google.com/file/d/1Jq0fPb-tq76Ee_RtM58fT0_M3o-JDBwe/view?usp=sharing).**
 
 ## .gitignore
 The `.gitignore` file excludes all CSV and dataset files from version control.
