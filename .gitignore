@@ -1,4 +1,5 @@
-*.csv
+# ignore all CSVs in datasets/
+datasets/**/*.csv
 *.tsv
 *.xlsx
 *.xls
