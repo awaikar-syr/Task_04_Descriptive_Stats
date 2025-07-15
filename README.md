@@ -58,3 +58,13 @@ pip install -r requirements.txt
 
 ## .gitignore
 The `.gitignore` file excludes all CSV and dataset files from version control.
+
+---
+
+### Summary of Findings
+
+- The datasets revealed clear patterns in engagement metrics across platforms.
+- Facebook ads with higher `page_id` activity correlated with increased reach.
+- Twitter posts from certain `source` accounts showed higher interaction rates.
+- Using pandas and polars provided consistent statistical results, while pure Python offered lightweight alternatives.
+- Data cleaning and grouping by key identifiers (like `page_id`, `Facebook_Id`, and `source`) were essential for meaningful analysis.
