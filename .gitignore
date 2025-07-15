@@ -1,0 +1,10 @@
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.jsonl
+*.json
+.DS_Store
+__pycache__/
